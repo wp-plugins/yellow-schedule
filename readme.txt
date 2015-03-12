@@ -40,6 +40,7 @@ YellowSchedule is the easiest and most powerful scheduling system in the world. 
 = Customer Testimonials: =
 
 "Clients love it. I continue to see an excellent show rate; over 90% now. No-shows are rare any more"
+
 -Catherine Rosick, Counselor. Scotsdale, AZ
 
 "I'm really impressed with this scheduling tool. I saw patients confirm within seconds of being scheduled in for their appointment."
