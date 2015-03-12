@@ -13,7 +13,8 @@ Fast and Secure Scheduling (HIPAA Compliance). We streamline your entire appoint
 
 YellowSchedule is the easiest and most powerful scheduling system in the world. YellowSchedule appointment booking plugin for WordPress brings an easy to integrate appointment booking widget to wordpress for the first time. This simple, attractive plugin places our lightweight javascript widget on your website. Allowing you to take client bookings directly from your website 24x7.
 
-Additional Features:
+= Additional Features: =
+
 - Advanced SMS text reminders (Now with client replies)
 - Unique Greed Dot/Red Dot system. Easily see when clients confirm their attendance with an text message.
 - Securely keep client notes (CRM).
@@ -24,10 +25,10 @@ Additional Features:
 - Group Scheduling functionality, multi-location support, HIPAA Compliant.
 - Proven system used across 64 different countries.
 - Award winning product with incredibly easy to use interface.
-
 - Get our accompanying mobile app now available for <a href="https://itunes.apple.com/us/app/id949949902?mt=8">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.phonegap.yellowschedule">Android</a>, <a href="http://www.windowsphone.com/en-ng/store/app/yellow-schedule/fa9c9044-089a-4649-a1ef-7dde62013853">Windows Phone</a> 
 
-Security Features:
+= Security Features: =
+
 - HIPAA compliance.
 - SSL 128bit encryption on all data transfer.
 - Client data encrypted in AES 256bit level of encryption.
@@ -36,7 +37,8 @@ Security Features:
 - Database replication (combined with regular scheduled backups!) to protect against data loss.
 
 
-Customer Testimonials:
+= Customer Testimonials: =
+
 "Clients love it. I continue to see an excellent show rate; over 90% now. No-shows are rare any more"
 -Catherine Rosick, Counselor. Scotsdale, AZ
 
