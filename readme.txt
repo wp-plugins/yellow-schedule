@@ -41,28 +41,38 @@ YellowSchedule is the easiest and most powerful scheduling system in the world. 
 
 "Clients love it. I continue to see an excellent show rate; over 90% now. No-shows are rare any more"
 
--Catherine Rosick, Counselor. Scotsdale, AZ
+- Catherine Rosick, Counselor. Scotsdale, AZ
+
+------------------------------------------------------
 
 "I'm really impressed with this scheduling tool. I saw patients confirm within seconds of being scheduled in for their appointment."
 "I can really relax now knowing YellowSchedule, my 'online secretary', is on the job!"
 
--Summer Allan Wilson, Clinical Social Worker. Dallas, TX.
+- Summer Allan Wilson, Clinical Social Worker. Dallas, TX.
+
+------------------------------------------------------
 
 "I'm loving YellowSchedule. I started after a mix up with appointment times which meant I lost business and haven't looked back!"
 
--Leah Bevan, Hypnotherapist. Plymouth, UK
+- Leah Bevan, Hypnotherapist. Plymouth, UK
+
+------------------------------------------------------
 
 "Yellowschedule streamlined my appointments in a professional manner. Patients appreciate the convenience and flexibility of the system. The burdens of phone tag and missed appointments are a thing of the past. I only wish I had used this service sooner."
 
--Osiris Wade, Psychotherapist. Dallas, Tx
+- Osiris Wade, Psychotherapist. Dallas, Tx
+
+------------------------------------------------------
 
 "I couldn’t ask for anymore, it’s as if YellowSchedule had based their whole product around me. For our company YellowSchedule was the perfect choice. Now I can operate our bookings from the other side of the world and still keep on top of confirmed, cancelled and no-show bookings."
 
--Ali, Protein Box, Kuwait.
+- Ali, Protein Box, Kuwait.
+
+------------------------------------------------------
 
 "I have seen a huge increase in business by merely implementing the YellowSchedules scheduling tool in my practice. After several weeks of using YellowSchedule I have seen my no-show rates reduce to an amazing 2 % and my confirmed bookings have increased by over 75 %.  YellowSchedule honestly has changed how I run my business and I couldn’t envision myself going back to how I operated before."
 
--Dionne Mahaffey, Psy.D. Atlanta, GA.
+- Dionne Mahaffey, Psy.D. Atlanta, GA.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRtwT4RI3O0" frameborder="0" allowfullscreen></iframe>
 
