@@ -13,7 +13,7 @@ Fast and Secure Scheduling (HIPAA Compliance). We streamline your entire appoint
 
 YellowSchedule is the easiest and most powerful scheduling system in the world. YellowSchedule appointment booking plugin for WordPress brings an easy to integrate appointment booking widget to wordpress for the first time. This simple, attractive plugin places our lightweight javascript widget on your website. Allowing you to take client bookings directly from your website 24x7.
 
-= Additional Features: =
+= Additional Features =
 
 - Advanced SMS text reminders (Now with client replies)
 - Unique Greed Dot/Red Dot system. Easily see when clients confirm their attendance with an text message.
@@ -27,7 +27,7 @@ YellowSchedule is the easiest and most powerful scheduling system in the world. 
 - Award winning product with incredibly easy to use interface.
 - Get our accompanying mobile app now available for <a href="https://itunes.apple.com/us/app/id949949902?mt=8">iOS</a>, <a href="https://play.google.com/store/apps/details?id=com.phonegap.yellowschedule">Android</a>, <a href="http://www.windowsphone.com/en-ng/store/app/yellow-schedule/fa9c9044-089a-4649-a1ef-7dde62013853">Windows Phone</a> 
 
-= Security Features: =
+= Security Features =
 
 - HIPAA compliance.
 - SSL 128bit encryption on all data transfer.
@@ -36,9 +36,9 @@ YellowSchedule is the easiest and most powerful scheduling system in the world. 
 - High powered dedicated hardware protected by dedicated firewall.
 - Database replication (combined with regular scheduled backups!) to protect against data loss.
 
-<div class=’video’><object width=’532′ height=’325′><param name=’movie’ value=’ https://www.youtube.com/embed/BRtwT4RI3O0′></param> <param name=’allowFullScreen’ value=’true’></param><param name=’allowscriptaccess’ value=’never’></param><embed src=’ https://www.youtube.com/embed/BRtwT4RI3O0′ type=’application/ x-shockwave-flash’ allowscriptaccess=’never’ allowfullscreen=’true’ width=’532′ height=’325′></embed></object></div>
+<div class=’video’><object width=’532′ height=’325′><param name=’movie’ value=’https://www.youtube.com/watch?v=BRtwT4RI3O0′></param> <param name=’allowFullScreen’ value=’true’></param><param name=’allowscriptaccess’ value=’never’></param><embed src=’ https://www.youtube.com/watch?v=BRtwT4RI3O0′ type=’application/ x-shockwave-flash’ allowscriptaccess=’never’ allowfullscreen=’true’ width=’532′ height=’325′></embed></object></div>
 
-= Customer Testimonials: =
+= Customer Testimonials =
 <blockquote>"Clients love it. I continue to see an excellent show rate; over 90% now. No-shows are rare any more"</blockquote>
 Catherine Rosick, Counselor. Scotsdale, AZ
 
