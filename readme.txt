@@ -1,6 +1,6 @@
 === Yellow Schedule ===
 Contributors: yellowschedule
-Tags: Appointment Booking Plugin for WordPress,schedule,scheduling,appointments,appointment scheduling,online scheduler,online scheduling,Appointment Booking,calendar,reminders,sms reminders,text reminders,yellowschedule,payments,appointment payments
+Tags: Appointment Booking Plugin for WordPress, schedule, scheduling, appointments, appointment scheduling, online scheduler, online scheduling, Appointment Booking, calendar,reminders, sms reminders, text reminders, yellowschedule, payments, appointment payments
 Requires at least: 3.9
 Tested up to: 4.0
 Stable tag: 1.0
