@@ -1,13 +1,13 @@
 <?php
 /*
  * Plugin Name: Yellow Schedule
- * Version: 1.0
+ * Version: 1.1
  * Plugin URI: http://www.yellowschedule.com
  * Description: A Yellow Schedule appointment plugin.
  * Author: Yellow Schedule
  * Author URI: http://www.yellowschedule.com
- * Requires at least: 4.0
- * Tested up to: 4.0
+ * Requires at least: 3.9
+ * Tested up to: 4.1.1
  *
  * Text Domain: yellow-schedule
  * Domain Path: /lang/

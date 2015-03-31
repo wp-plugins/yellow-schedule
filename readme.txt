@@ -2,8 +2,8 @@
 Contributors: yellowschedule
 Tags: Appointment Booking Plugin for WordPress, schedule, scheduling, appointments, appointment scheduling, online scheduler, online scheduling, Appointment Booking, calendar, reminders, sms reminders, text reminders, yellowschedule, payments, appointment payments
 Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 1.0
+Tested up to: 4.1.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -59,23 +59,35 @@ https://www.youtube.com/watch?v=BRtwT4RI3O0
 
 == Installation ==
 
-Installing "Yellow Schedule" can be done either by searching for "Yellow Schedule" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
+To install the YellowSchedule plugin use one of the following two methods:
+
+= Automatic Installation = 
+
+1. Search for "Yellow Schedule" via the "Plugins > Add New" screen in your WordPress dashboard and click 'Install Now'.
+2. Activate the plugin after installation and navigate to the 'Yellow Schedule' option in 'Settings' for plugin setup.
+
+= Manual Installation =
 
 1. Download the plugin via WordPress.org
 2. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
 3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Navigate to the 'Yellow Schedule' option in 'Settings'
-5. Enter your Business Key that can be obtained from within your account at http://www.yellowschedule.com
-6. Customise the plugin with number of display days and display picture
-7. Paste the shortcode [yellow_schedule] into any WordPress page or post
+4. Navigate to the 'Yellow Schedule' option in 'Settings' for plugin setup.
+
+= Plugin Setup =
+
+1. If you don't already have one; then claim your FREE account on YellowSchedule.com.
+2. Connect your account to the widget using the connect button.
+3. That's it! Simply copy and paste the [yellow_schedule] shortcode anywhere on your WordPress page or post.
 
 == Screenshots ==
 
-1. An overview of the plugin setup screen aswell as a demonstration of the widget that can be pasted into a post or page.
-2. Your client will then select a free appointment slot and enter their details.
-3. You can capture extra custom data fields about your clients if you want (eg Nationality, Next of kin, etc).
-4. You can also take payments from your clients with our secure client payments system.
-5. If you are using the Yellow Schedule mobile app (available for Android, iOS and Windows Phone) you can receive appointment updates directly along with email and sms updates.
+1. STEP 1 - If you don't already have one; then claim your FREE account on YellowSchedule.com.
+2. STEP 2 - Connect your account to the widget using the connect button.
+3. STEP 3 - That's it! Simply copy and paste the [yellow_schedule] shortcode anywhere on your WordPress page or post.
+4. Your client will then select a free appointment slot and enter their details.
+5. You can capture extra custom data fields about your clients if you want (eg Nationality, Next of kin, etc).
+6. You can also take payments from your clients with our secure client payments system.
+7. If you are using the Yellow Schedule mobile app (available for Android, iOS and Windows Phone) you can receive appointment updates directly along with email and sms updates.
 
 == Frequently Asked Questions ==
 
@@ -98,11 +110,21 @@ Yes, they can be easily customized to make sure that clients never forget an app
 
 == Changelog ==
 
+= 1.1 =
+* 2015-03-31
+* Added connect account capability - simply enter your YellowSchedule username and password to get started.
+* JSON communication with YellowSchedule server which automatically grabs the business key.
+
 = 1.0 =
 * 2015-03-09
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.1 =
+* 2015-03-31
+* Added connect account capability - simply enter your YellowSchedule username and password to get started.
+* JSON communication with YellowSchedule server which automatically grabs the business key.
 
 = 1.0 =
 * 2015-03-09

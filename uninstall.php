@@ -14,7 +14,8 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 	exit;
 }
 
-// Do something here if plugin is being uninstalled.
+// Delete all options when plugin is being uninstalled.
 delete_option('wpt_ys_master_act');
 delete_option('wpt_ys_num_days');
 delete_option('wpt_ys_display_user');
+delete_option('wpt_ys_display_hidden');
